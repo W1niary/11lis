@@ -4,3 +4,7 @@ h1 {
 body {
     background-image: linear-gradient(white, red);
 }
+p{
+    background-color:#7e0000;
+    font-color: white;
+}
